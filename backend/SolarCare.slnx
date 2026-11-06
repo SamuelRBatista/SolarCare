@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SolarCare.Api/SolarCare.Api.csproj" />
+    <Project Path="src/SolarCare.Application/SolarCare.Application.csproj" />
+    <Project Path="src/SolarCare.Domain/SolarCare.Domain.csproj" />
+    <Project Path="src/SolarCare.Infrastructure/SolarCare.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SolarCare.Tests/SolarCare.Tests.csproj" />
+  </Folder>
+  <Folder Name="/tools/">
+    <Project Path="tools/SolarCare.DbMigrator/SolarCare.DbMigrator.csproj" />
+  </Folder>
+</Solution>
